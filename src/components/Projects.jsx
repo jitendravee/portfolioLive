@@ -88,7 +88,6 @@ const Projects = () => {
               </p>
             </div>
           </li>
-          <l1>gjhjhgj</l1>
         </ul>
       </div>
     </div>
